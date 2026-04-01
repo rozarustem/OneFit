@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Standart",
+    "price": 150000,
+    "benefits": [
+      "Haftasiga 3 marta qatnashish",
+      "1 ta sport turi",
+      "Oddiy zalga kirish"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium",
+    "price": 250000,
+    "benefits": [
+      "Cheksiz qatnashish",
+      "3 ta sport turini tanlash",
+      "Guruhli darslarga kirish"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "VIP",
+    "price": 400000,
+    "benefits": [
+      "Cheksiz qatnashish",
+      "Barcha sport turlari",
+      "Shaxsiy ustoz bilan 2 ta dars",
+      "VIP zona"
+    ]
+  }
+]

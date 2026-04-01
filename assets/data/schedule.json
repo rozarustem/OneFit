@@ -1,0 +1,14 @@
+[
+  { "id": 1, "clubId": 1, "sportId": 1, "day": "Dushanba", "time": "08:00", "coach": "Jamshid Aka" },
+  { "id": 2, "clubId": 1, "sportId": 2, "day": "Seshanba", "time": "10:00", "coach": "Malika Opa" },
+  { "id": 3, "clubId": 1, "sportId": 3, "day": "Chorshanba", "time": "18:00", "coach": "Azizbek" },
+  { "id": 4, "clubId": 2, "sportId": 1, "day": "Payshanba", "time": "09:00", "coach": "Jamshid Aka" },
+  { "id": 5, "clubId": 2, "sportId": 5, "day": "Juma", "time": "19:00", "coach": "Sardor" },
+  { "id": 6, "clubId": 2, "sportId": 6, "day": "Shanba", "time": "11:00", "coach": "Sevara" },
+  { "id": 7, "clubId": 3, "sportId": 2, "day": "Dushanba", "time": "07:30", "coach": "Malika Opa" },
+  { "id": 8, "clubId": 3, "sportId": 7, "day": "Seshanba", "time": "17:00", "coach": "Rustam Sensey" },
+  { "id": 9, "clubId": 3, "sportId": 8, "day": "Yakshanba", "time": "16:00", "coach": "Nigora" },
+  { "id": 10, "clubId": 4, "sportId": 1, "day": "Dushanba", "time": "08:00", "coach": "Jamshid Aka" },
+  { "id": 11, "clubId": 4, "sportId": 3, "day": "Chorshanba", "time": "18:30", "coach": "Azizbek" },
+  { "id": 12, "clubId": 4, "sportId": 9, "day": "Juma", "time": "15:00", "coach": "Bekzod" }
+]

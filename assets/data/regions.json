@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Toshkent shahri" },
+  { "id": 2, "name": "Toshkent viloyati" },
+  { "id": 3, "name": "Samarqand" },
+  { "id": 4, "name": "Buxoro" },
+  { "id": 5, "name": "Andijon" },
+  { "id": 6, "name": "Farg'ona" },
+  { "id": 7, "name": "Namangan" },
+  { "id": 8, "name": "Qashqadaryo" },
+  { "id": 9, "name": "Surxondaryo" },
+  { "id": 10, "name": "Xorazm" },
+  { "id": 11, "name": "Navoiy" },
+  { "id": 12, "name": "Jizzax" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Fitness", "coach": "Jamshid Aka", "description": "Umumiy sog'lomlashtirish va tana chiniqtirish mashg'ulotlari." },
+  { "id": 2, "name": "Yoga", "coach": "Malika Opa", "description": "Moslashuvchanlik, nafas va muvozanat uchun mashg'ulot." },
+  { "id": 3, "name": "Boks", "coach": "Azizbek", "description": "Jismoniy kuch, tezlik va himoya usullarini o'rgatadi." },
+  { "id": 4, "name": "Suzish", "coach": "Diyorbek", "description": "Suvda xavfsiz va samarali suzish texnikalari." },
+  { "id": 5, "name": "Krossfit", "coach": "Sardor", "description": "Yuqori intensivlikdagi kompleks mashqlar to'plami." },
+  { "id": 6, "name": "Pilates", "coach": "Sevara", "description": "Tana markazini mustahkamlash va holatni yaxshilash." },
+  { "id": 7, "name": "Karate", "coach": "Rustam Sensey", "description": "Intizom, zarba va himoya texnikalari." },
+  { "id": 8, "name": "Zumba", "coach": "Nigora", "description": "Raqs va kardio mashqlar uyg'unligi." },
+  { "id": 9, "name": "TRX", "coach": "Bekzod", "description": "Osma kamarlar bilan ishlanadigan funksional mashqlar." },
+  { "id": 10, "name": "Futbol", "coach": "Ulug'bek", "description": "Jamoaviy o'yin, texnika va chidamlilik." },
+  { "id": 11, "name": "Basketbol", "coach": "Otabek", "description": "To'p nazorati, sakrash va jamoaviy taktika." },
+  { "id": 12, "name": "Voleybol", "coach": "Dilshod", "description": "Jamoa o'yini va tezkor reaksiyalar uchun mashg'ulot." },
+  { "id": 13, "name": "Tennis", "coach": "Kamola", "description": "Raketka texnikasi va individual mahorat." },
+  { "id": 14, "name": "Taekwondo", "coach": "Sherzod", "description": "Oyoq zarbalari va himoya san'ati." },
+  { "id": 15, "name": "Aerobika", "coach": "Shahnoza", "description": "Musiqa ostida faol harakat va kardio yuklama." }
+]

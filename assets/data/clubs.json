@@ -1,0 +1,19 @@
+[
+  { "id": 1, "name": "OneFit Yunusobod", "regionId": 1, "address": "Yunusobod 12-mavze", "sportIds": [1, 2, 3, 4] },
+  { "id": 2, "name": "Power Gym Chilonzor", "regionId": 1, "address": "Chilonzor 6-kvartal", "sportIds": [1, 5, 6] },
+  { "id": 3, "name": "Arena Fitness", "regionId": 1, "address": "Mirzo Ulug'bek tumani", "sportIds": [2, 7, 8] },
+  { "id": 4, "name": "Fit Life Qibray", "regionId": 2, "address": "Qibray markazi", "sportIds": [1, 3, 9] },
+  { "id": 5, "name": "Olimp Club Chirchiq", "regionId": 2, "address": "Chirchiq shahri", "sportIds": [4, 5, 10] },
+  { "id": 6, "name": "Sam Sport Center", "regionId": 3, "address": "Registon ko'chasi", "sportIds": [1, 6, 11] },
+  { "id": 7, "name": "Maroqand Gym", "regionId": 3, "address": "Siyob bozori yonida", "sportIds": [2, 8, 12] },
+  { "id": 8, "name": "Buxoro Fitness", "regionId": 4, "address": "Eski shahar", "sportIds": [1, 7, 13] },
+  { "id": 9, "name": "Historic Sport Club", "regionId": 4, "address": "Ark yaqinida", "sportIds": [3, 9, 14] },
+  { "id": 10, "name": "Andijon Mega Sport", "regionId": 5, "address": "Bobur shoh ko'chasi", "sportIds": [1, 2, 15] },
+  { "id": 11, "name": "Farg'ona Fit Club", "regionId": 6, "address": "Marg'ilon yo'li", "sportIds": [4, 6, 11] },
+  { "id": 12, "name": "Namangan Energy", "regionId": 7, "address": "Chorsu markazi", "sportIds": [1, 5, 12] },
+  { "id": 13, "name": "Qarshi Power House", "regionId": 8, "address": "Nasaf ko'chasi", "sportIds": [3, 7, 14] },
+  { "id": 14, "name": "Termiz Active", "regionId": 9, "address": "Termiz city center", "sportIds": [2, 8, 10] },
+  { "id": 15, "name": "Urganch Strong", "regionId": 10, "address": "Al-Xorazmiy ko'chasi", "sportIds": [1, 4, 13] },
+  { "id": 16, "name": "Navoiy Gold Gym", "regionId": 11, "address": "Navoiy markazi", "sportIds": [5, 9, 15] },
+  { "id": 17, "name": "Jizzax Sport Hall", "regionId": 12, "address": "Sharof Rashidov ko'chasi", "sportIds": [2, 6, 11] }
+]
